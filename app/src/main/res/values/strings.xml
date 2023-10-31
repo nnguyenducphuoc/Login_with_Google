@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UngDungDocBao</string>
+    <string name="log_in">Log in</string>
+    <string name="email_or_username">Email</string>
+    <string name="password">Nhập password</string>
+    <string name="password_txt">Password</string>
+    <string name="username">Nhập email</string>
+    <string name="login">Login</string>
+    <string name="input_password">Input password...</string>
+    <string name="input_email">Input email...</string>
+    <string name="log_in_without_password">Log in without password</string>
+    <string name="or_login_with">or login with</string>
+    <string name="default_web_client_id">762539973057-lmrjrli89sh7lc6t2thahq148bal4mfn.apps.googleusercontent.com</string>
+</resources>

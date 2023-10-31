@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762539973057",
+    "project_id": "ungdungdocbao-ee4bd",
+    "storage_bucket": "ungdungdocbao-ee4bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762539973057:android:de1ffcfac4585d64c07740",
+        "android_client_info": {
+          "package_name": "com.phuoc.ungdungdocbao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWZVnF33MFkjojYjv6b6f0zzClu4dmU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
